@@ -2,6 +2,12 @@
 
 
 
+### Step0: Download data
+
+There are 3 files in need, `airlines.csv` and `airports.csv` are provided in this document. `flights.csv` is big and needs to be processed.
+
+You can download `flights.csv` from [This webste](https://www.kaggle.com/datasets/usdot/flight-delays) , move it to the same path as this file, and run `python3 wash_flights.py`. 
+
 ## Step1: Load data
 
 Load three files into the database: `airlines.csv`, `airports.csv`, `flights.csv`
